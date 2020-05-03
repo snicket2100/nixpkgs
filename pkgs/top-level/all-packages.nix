@@ -5844,6 +5844,8 @@ in
 
   pdfcrack = callPackage ../tools/security/pdfcrack { };
 
+  pdfid = callPackage ../tools/security/pdfid { };
+
   pdfsandwich = callPackage ../tools/typesetting/pdfsandwich { };
 
   pdftag = callPackage ../tools/graphics/pdftag { };
